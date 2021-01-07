@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+profitigniter.net	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Fbillionairej3
+profitigniter.net	TRUE	/	FALSE	1999999999	_y	579796f6-a096-4ce6-8647-9befee8acbcd
+profitigniter.net	TRUE	/	FALSE	1999999999	_shopify_y	579796f6-a096-4ce6-8647-9befee8acbcd
+profitigniter.net	TRUE	/	FALSE	1999999999	_s	0442b7d9-76ac-47cc-a978-d7bc757f5c55
+profitigniter.net	TRUE	/	FALSE	1999999999	_shopify_s	0442b7d9-76ac-47cc-a978-d7bc757f5c55
+profitigniter.net	TRUE	/	FALSE	1999999999	_shopify_fs	2021-01-06T14%3A34%3A32Z
+.gtranslate.io	TRUE	/	FALSE	1999999999	__cfduid	dbd008a14dde7330736ad0c64c4473f1f1609943688
+gtranslate.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.profitigniter.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
